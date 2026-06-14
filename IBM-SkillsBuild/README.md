@@ -29,6 +29,8 @@ This folder contains certificates earned through IBM SkillsBuild programs.
 
 ---
 
+- Certificate: [View Certificate](./IBM-SkillsBuild/Certificate.pdf)
+
 ## 📌 Notes
 
 This certificate represents my completion of the IBM SkillsBuild learning program and my continuous growth in digital and professional skills.
