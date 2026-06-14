@@ -10,9 +10,6 @@ This folder contains certificates earned through IBM SkillsBuild programs.
 
 **Provider:** IBM SkillsBuild  
 
-**Skills Covered:**
-- Add the skills covered by your certificate here
-
 **Certificate File:**
 - Certificate.pdf
 
