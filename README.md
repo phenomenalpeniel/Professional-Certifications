@@ -1,4 +1,4 @@
-# 📜 Professional Certifications
+# 📜 Certifications
 
 Welcome to my Professional Certifications repository.  
 This repository contains verified certificates from courses, training programs, and professional development platforms that I have completed.
